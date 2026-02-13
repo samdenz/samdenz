@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on software and web projects using html/css/js or react
 - 📫 How to reach me denzelsam.omondi@strathmore.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact:I am Him
 
 <!---
