@@ -17,7 +17,6 @@ I am a final year computer science student with a strong passion about Artificia
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
 <img src="https://img.shields.io/badge/[Javascript]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Kotlin]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Swift]-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Python]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[C++]-F7DF1E?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Java]-20232A?style=for-the-badge" /> 
